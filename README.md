@@ -1,1 +1,1 @@
-# REPASO_REPOSITORIOS
+No se puede subir carpetas a un repositorio, se deben subir archivos unicamente.
